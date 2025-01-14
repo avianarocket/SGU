@@ -35,7 +35,7 @@ SGU/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-cadastro-usuarios.git
+   git clone https://github.com/avianarocket/SGU.git
 
 2. Configure o banco de dados:
    Crie um banco de dados MySQL usando o arquivo bd.sql.
