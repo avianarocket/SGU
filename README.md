@@ -22,7 +22,7 @@ Este é um sistema de gerenciamento de usuários desenvolvido em **PHP** com int
 
 ## 📂 Estrutura do Projeto
 
-sistema-cadastro-usuarios/
+SGU/
 ├── index.php # Página inicial com lista de usuários.
 ├── cadastrar_usuario.php # Página para ccadastro de usuarios.
 ├── editar_usuario.php # Página para editar informações do usuário.
